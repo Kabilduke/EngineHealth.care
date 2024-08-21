@@ -13,8 +13,8 @@ Model Deployment: https://huggingface.co/spaces/Kabil007/EngineHealth.care
 ### Installation
 1. Clone the repository
 ```sh
-  git clone:: https://github.com/Kabilduke/EngineHealth.care.git
-  cd Engine
+  git clone https://github.com/Kabilduke/EngineHealth.care.git
+  cd
 ```
 
 3. Create a virtual environment and activate it:
