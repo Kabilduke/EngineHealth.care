@@ -32,3 +32,8 @@ Model Deployment: https://huggingface.co/spaces/Kabil007/EngineHealth.care
 ```sh
    streamlit run app.py
 ```
+
+
+## Contribution
+
+Contributions are welcome! Feel free to open an issue or submit a pull request for any changes or improvement
