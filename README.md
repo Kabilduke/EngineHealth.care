@@ -12,16 +12,23 @@ Model Deployment: https://huggingface.co/spaces/Kabil007/EngineHealth.care
 
 ### Installation
 1. Clone the repository
-   
+```sh
   git clone:: https://github.com/Kabilduke/EngineHealth.care.git
   cd Engine
+```
 
-2. Create a virtual environment and activate it:
+3. Create a virtual environment and activate it:
+```sh
    python -m venv venv
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+```
 
-3. Install the required packages:
+5. Install the required packages:
+```sh
    pip install requirements.txt
+```
 
-4. Run the streamlit app:
+7. Run the streamlit app:
+```sh
    streamlit run app.py
+```
